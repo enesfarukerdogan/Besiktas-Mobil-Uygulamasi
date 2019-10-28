@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2f2f2f">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:layout_marginEnd="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/tarih" />
+
+    <ScrollView
+        android:id="@+id/ScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="330dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:scrollbars="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:background="#dcdcdc"
+            android:text="KURULUŞ \n\n \t\t1902 sonbaharında Beşiktaş Serencebey Mahallesi'nde, o zamanın Medine Muhafızı olan Osman Paşa'nın konağının bahçesinde, 22 kişilik genç grup, haftanın bazı günlerinde toplanıp jimnastik hareketleri yapmaktaydı. Başta Osman Paşa'nın oğulları Mehmet Şamil ve Hüseyin Bereket ile mahellenin gençlerinden Ahmet Fetgeri, Mehmet Ali Fetgeri, Nazımnazif, Cemil Feti ve Şevket Beyler’in aralarında bulunduğu gençlerin ilk ilgilendikleri spor branşları, özellikle barfiks, paralel, güreş, halter, aletli ve aletsiz jimnastikti. O sıralarda siyasi hareketler dolayısıyla her türlü toplanmadan ürkerek hafiyeler dolaştıran 2. Abdülhamit'in adamları Serencebey'deki bu toplanmaları haber alınca, spor yapan gençler bir baskınla karakola götürüldü. Bu sporcu gençlerin bir kısmının saray erkanına yakın olması, ayrıca o dönemlerde kötü gözle bakılan futbol oynamadıkları ve sadece beden hareketleri yaptıklarını belirtmeleriyle gergin durum yumuşadı. Hatta saray çevresinden Şeyhzade Abdülhalim bu sporcuları destekledi ve sık sık antrenmanları seyretmeye başladı. Ünlü boksör ve güreşçi Kenan Bey de antrenmanlara gelerek güreş ve boks hareketleri göstermeye başladı.
+    \n\n \t\t1903 Mart'ında ise özel bir izinle Bereket Jimnastik Kulübü kuruldu. 1908'de Meşrutiyet'in ilanıyla sportif hareketler biraz daha serbestlik kazandı. 31 Mart 1909'daki siyasi olaylardan sonra Edirne'de bulunan Fuat Balkan ve Mazhar Kazancı, Hareket Ordusu ile İstanbul'a geldi. Siyasi olaylar yatıştıktan sonra iyi bir eskrim hocası olan Fuat Balkan ile başta güreş ve halter sporlarını yapan Mazhar Kazancı, Serencebey'de jimnastik yapan gençleri bularak birlikte spor yapma fikrini kabul ettirdi. Fuat Balkan, Ihlamur'daki evinin altındaki yeri, kulüp merkezi yaptı ve Bereket Jimnastik Kulübü'nün adı Beşiktaş Osmanlı Jimnastik Kulübü olarak değiştirildi. Böylece jimnastik, güreş, boks, eskrim ve atletizmin ön planda tutulduğu güçlü bir spor kulübü meydana geldi. Fuat Bey'in arkadaşları Refik ve Şerafettin Beyler de iyi birer eskrimciydi.
+    \n\n \t\tBu arada Beyoğlu Mutasarrıfı Muhittin Bey'in teşvikiyle Beşiktaş Osmanlı Jimnastik Kulübü, 26 Ocak 1911 tarihinde tescil edilen ilk Türk spor kulübü oldu. Semtin gençlerinin bu spor kulübüne ilgisi büyüdü ve spor yapan üyelerin sayısı bir anda 150'ye yükseldi. Kulübün merkezi de Ihlamur'dan Akaretler'de 49 numaralı binaya taşındı. Bir süre sonra bu bina da küçük gelince, yine Akaretler'de 84 numaralı binaya geçildi. Bu binanın arkasındaki bahçe de bir spor sahası haline getirildi."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            tools:layout_editor_absoluteX="8dp" />
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

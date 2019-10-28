@@ -1,0 +1,710 @@
+{
+  "fikstur" : {
+    "key" : "maclar",
+    "maclar" : {
+      "-maca" : {
+        "deplasman" : "Konyaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 2",
+        "tarih" : "06.08.2017",
+        "turnuva" : "Türkiye Süper Kupası"
+      },
+      "-macb" : {
+        "deplasman" : "Antalyaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 0",
+        "tarih" : "13.08.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macc" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Kasımpaşa SK",
+        "skor" : "2 : 2",
+        "tarih" : "18.08.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macd" : {
+        "deplasman" : "Bursaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 1",
+        "tarih" : "26.08.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-mace" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Kardemir Karabükspor",
+        "skor" : "0 : 1",
+        "tarih" : "09.09.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macf" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "FC Porto",
+        "skor" : "1 : 3",
+        "tarih" : "13.09.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-macg" : {
+        "deplasman" : "Konyaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 0",
+        "tarih" : "18.09.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-mach" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Fenerbahçe",
+        "skor" : "2 : 1",
+        "tarih" : "23.09.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maci" : {
+        "deplasman" : "RB Leipzig",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 0",
+        "tarih" : "26.09.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-macj" : {
+        "deplasman" : "Trabzonspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 2",
+        "tarih" : "01.10.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-mack" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Gençlerbirliği",
+        "skor" : "2 : 1",
+        "tarih" : "13.10.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macl" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Monaco",
+        "skor" : "1 : 2",
+        "tarih" : "17.10.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-macm" : {
+        "deplasman" : "İstanbul Başakşehir",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 1",
+        "tarih" : "23.10.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macn" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Alanyaspor",
+        "skor" : "1 : 2",
+        "tarih" : "28.10.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maco" : {
+        "deplasman" : "Monaco",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 1",
+        "tarih" : "01.11.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-macp" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Göztepe SK",
+        "skor" : "1 : 3",
+        "tarih" : "05.11.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macr" : {
+        "deplasman" : "Akhisarspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "0 : 0",
+        "tarih" : "17.11.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macs" : {
+        "deplasman" : "FC Porto",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 1",
+        "tarih" : "21.11.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-mact" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Yeni Malatyaspor",
+        "skor" : "0 : 0",
+        "tarih" : "25.11.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macu" : {
+        "deplasman" : "Manisaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "9 : 0",
+        "tarih" : "28.11.2017",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-macv" : {
+        "deplasman" : "Galatasaray",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "3 : 0",
+        "tarih" : "02.12.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macy" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "RB Leipzig",
+        "skor" : "1 : 2",
+        "tarih" : "06.12.2017",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-macz" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Kayserispor",
+        "skor" : "1 : 1",
+        "tarih" : "10.12.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-macza" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Manisaspor",
+        "skor" : "1 : 1",
+        "tarih" : "12.12.2017",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczb" : {
+        "deplasman" : "Osmanlıspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "5 : 1",
+        "tarih" : "17.12.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczc" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Sivasspor",
+        "skor" : "2 : 1",
+        "tarih" : "23.12.2017",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczd" : {
+        "deplasman" : "Osmanlıspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "4 : 1",
+        "tarih" : "28.12.2017",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-macze" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Osmanlıspor",
+        "skor" : "2 : 1",
+        "tarih" : "17.01.2018",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczf" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Antalyaspor",
+        "skor" : "1 : 2",
+        "tarih" : "21.01.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczg" : {
+        "deplasman" : "Kasımpaşa",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 1",
+        "tarih" : "26.01.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczh" : {
+        "deplasman" : "Gençlerbirliği",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "3 : 1",
+        "tarih" : "30.01.2018",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczi" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Bursaspor",
+        "skor" : "2 : 2",
+        "tarih" : "02.02.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczj" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Gençlerbirliği",
+        "skor" : "0 : 1",
+        "tarih" : "06.02.2018",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczk" : {
+        "deplasman" : "Kardemir Karabükspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "5 : 0",
+        "tarih" : "10.02.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczl" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Konyaspor",
+        "skor" : "1 : 1",
+        "tarih" : "16.02.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczm" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "FC Bayern München",
+        "skor" : "5 : 0",
+        "tarih" : "20.02.2018",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-maczn" : {
+        "deplasman" : "Fenerbahçe",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "3 : 1",
+        "tarih" : "25.02.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczo" : {
+        "deplasman" : "Fenerbahçe",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "2 : 2",
+        "tarih" : "26.01.2018",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczp" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Trabzonspor",
+        "skor" : "0 : 2",
+        "tarih" : "05.03.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczr" : {
+        "deplasman" : "Gençlerbirliği",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 0",
+        "tarih" : "10.03.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczs" : {
+        "deplasman" : "FC Bayern München",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "1 : 3",
+        "tarih" : "14.03.2018",
+        "turnuva" : "Şampiyonlar Ligi"
+      },
+	  "-maczt" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "İstanbul Başakşehir",
+        "skor" : "1 : 0",
+        "tarih" : "18.03.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczu" : {
+        "deplasman" : "Alanyaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "... : ...",
+        "tarih" : "31.03.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczv" : {
+        "deplasman" : "Göztepe FK",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "... : ...",
+        "tarih" : "07.04.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczy" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Akhisarspor",
+        "skor" : "... : ...",
+        "tarih" : "13.04.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczz" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Fenerbahçe",
+        "skor" : "... : ...",
+        "tarih" : "19.04.2018",
+        "turnuva" : "Ziraat Türkiye Kupası"
+      },
+	  "-maczza" : {
+        "deplasman" : "Yeni Malatyaspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "... : ...",
+        "tarih" : "22.04.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczzb" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Galatasaray",
+        "skor" : "... : ...",
+        "tarih" : "29.04.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczzc" : {
+        "deplasman" : "Kayserispor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "... : ...",
+        "tarih" : "06.05.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczzd" : {
+        "deplasman" : "Beşiktaş",
+        "evsahibi" : "Osmanlıspor",
+        "skor" : "... : ...",
+        "tarih" : "13.05.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      },
+	  "-maczze" : {
+        "deplasman" : "Sivasspor",
+        "evsahibi" : "Beşiktaş",
+        "skor" : "... : ...",
+        "tarih" : "20.05.2018",
+        "turnuva" : "Spor Toto Süper Lig"
+      }
+    }
+  },
+  "puandurumu" : {
+	"key" : "siralama",
+	"siralama" : {
+	  "-a" : {
+        "sira" : "#",
+        "takimismi" : "Takım İsmi",
+        "oynananmac" : "O",
+        "averaj" : "A",
+        "puan" : "P"
+      },
+	  "-b" : {
+        "sira" : "1",
+        "takimismi" : "Galatasaray",
+        "oynananmac" : "26",
+        "averaj" : "33",
+        "puan" : "54"
+      },
+	  "-c" : {
+        "sira" : "2",
+        "takimismi" : "İstanbul Başakşehir",
+        "oynananmac" : "26",
+        "averaj" : "20",
+        "puan" : "53"
+      },
+	  "-d" : {
+        "sira" : "3",
+        "takimismi" : "Beşiktaş",
+        "oynananmac" : "26",
+        "averaj" : "24",
+        "puan" : "50"
+      },
+	  "-e" : {
+        "sira" : "4",
+        "takimismi" : "Fenerbahçe",
+        "oynananmac" : "26",
+        "averaj" : "19",
+        "puan" : "48"
+      },
+	  "-f" : {
+        "sira" : "5",
+        "takimismi" : "Trabzonspor",
+        "oynananmac" : "26",
+        "averaj" : "8",
+        "puan" : "42"
+      },
+	  "-g" : {
+        "sira" : "6",
+        "takimismi" : "Kayserispor",
+        "oynananmac" : "26",
+        "averaj" : "4",
+        "puan" : "41"
+      },
+	  "-h" : {
+        "sira" : "7",
+        "takimismi" : "Göztepe SK",
+        "oynananmac" : "26",
+        "averaj" : "0",
+        "puan" : "40"
+      },
+	  "-i" : {
+        "sira" : "8",
+        "takimismi" : "Sivasspor",
+        "oynananmac" : "26",
+        "averaj" : "-2",
+        "puan" : "38"
+      },
+	  "-j" : {
+        "sira" : "9",
+        "takimismi" : "Akhisarspor",
+        "oynananmac" : "26",
+        "averaj" : "-4",
+        "puan" : "34"
+      },
+	  "-k" : {
+        "sira" : "10",
+        "takimismi" : "Yeni Malatyaspor",
+        "oynananmac" : "26",
+        "averaj" : "-6",
+        "puan" : "34"
+      },
+	  "-l" : {
+        "sira" : "11",
+        "takimismi" : "Bursaspor",
+        "oynananmac" : "26",
+        "averaj" : "-1",
+        "puan" : "33"
+      },
+	  "-m" : {
+        "sira" : "12",
+        "takimismi" : "Kasımpaşa SK",
+        "oynananmac" : "26",
+        "averaj" : "-5",
+        "puan" : "31"
+      },
+	  "-n" : {
+        "sira" : "13",
+        "takimismi" : "Alanyaspor",
+        "oynananmac" : "26",
+        "averaj" : "-6",
+        "puan" : "28"
+      },
+	  "-o" : {
+        "sira" : "14",
+        "takimismi" : "Antalyaspor",
+        "oynananmac" : "26",
+        "averaj" : "-16",
+        "puan" : "28"
+      },
+	  "-p" : {
+        "sira" : "15",
+        "takimismi" : "Osmanlıspor",
+        "oynananmac" : "26",
+        "averaj" : "-7",
+        "puan" : "27"
+      },
+	  "-r" : {
+        "sira" : "16",
+        "takimismi" : "Gençlerbirliği",
+        "oynananmac" : "26",
+        "averaj" : "-8",
+        "puan" : "27"
+      },
+	  "-s" : {
+        "sira" : "17",
+        "takimismi" : "Konyaspor",
+        "oynananmac" : "26",
+        "averaj" : "-10",
+        "puan" : "24"
+      },
+	  "-t" : {
+        "sira" : "18",
+        "takimismi" : "Kardemir Karabükspor",
+        "oynananmac" : "26",
+        "averaj" : "-43",
+        "puan" : "12"
+      }
+	}
+  },
+  "oyuncular" : {
+	"key" : "kadro",
+	"kadro" : {
+		"-a" : {
+			"mevki" : "Mevki",
+			"oyuncuismi" : "Oyuncu İsmi",
+			"formano" : "Forma No"
+		},
+		"-b" : {
+			"mevki" : "K",
+			"oyuncuismi" : "Tolga Zengin",
+			"formano" : "29"
+		},
+		"-c" : {
+			"mevki" : "K",
+			"oyuncuismi" : "Fabricio Ramirez",
+			"formano" : "1"
+		},
+		"-d" : {
+			"mevki" : "K",
+			"oyuncuismi" : "Utku Yuvakuran",
+			"formano" : "97"
+		},
+		"-e" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Adriano Correia",
+			"formano" : "3"
+		},
+		"-f" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Gary Medel",
+			"formano" : "12"
+		},
+		"-g" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Fatih Aksoy",
+			"formano" : "14"
+		},
+		"-h" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Dusko Tosic",
+			"formano" : "6"
+		},
+		"-i" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Atınç Nukan",
+			"formano" : "33"
+		},
+		"-j" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Caner Erkin",
+			"formano" : "88"
+		},
+		"-k" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Gökhan Gönül",
+			"formano" : "77"
+		},
+		"-l" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Domagoj Vida",
+			"formano" : "24"
+		},
+		"-m" : {
+			"mevki" : "D",
+			"oyuncuismi" : "Pepe",
+			"formano" : "5"
+		},
+		"-n" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Necip Uysal",
+			"formano" : "20"
+		},
+		"-o" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Jeremain Lens",
+			"formano" : "17"
+		},
+		"-p" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Oğuzhan Özyakup",
+			"formano" : "10"
+		},
+		"-r" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Ryan Babel",
+			"formano" : "8"
+		},
+		"-s" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Atiba Hutchinson",
+			"formano" : "13"
+		},
+		"-t" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Gökhan Töre",
+			"formano" : "55"
+		},
+		"-u" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Anderson Talisca",
+			"formano" : "94"
+		},
+		"-v" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Tolgay Arslan",
+			"formano" : "18"
+		},
+		"-y" : {
+			"mevki" : "OS",
+			"oyuncuismi" : "Ricardo Quaresma",
+			"formano" : "7"
+		},
+		"-z" : {
+			"mevki" : "F",
+			"oyuncuismi" : "Mustafa Pektemek",
+			"formano" : "11"
+		},
+		"-za" : {
+			"mevki" : "F",
+			"oyuncuismi" : "Cyle Larin",
+			"formano" : "95"
+		},
+		"-zb" : {
+			"mevki" : "F",
+			"oyuncuismi" : "Vagner Love",
+			"formano" : "30"
+		},
+		"-zc" : {
+			"mevki" : "F",
+			"oyuncuismi" : "Alvaro Negredo",
+			"formano" : "9"
+		}
+	}
+  },
+  "yonetim" : {
+	"key" : "kurul",
+	"kurul" : {
+		"-a" : {
+			"yoneticiismi" : "Yönetici İsmi",
+			"gorev" : "Görevi"
+		},
+		"-b" : {
+			"yoneticiismi" : "Fikret Orman",
+			"gorev" : "Yönetim Kurulu Başkanı"
+		},
+		"-c" : {
+			"yoneticiismi" : "Ahmet Nur Çebi",
+			"gorev" : "II. Başkan"
+		},
+		"-d" : {
+			"yoneticiismi" : "Deniz Atalay",
+			"gorev" : "As Başkan"
+		},
+		"-e" : {
+			"yoneticiismi" : "Umut Güner",
+			"gorev" : "As Başkan"
+		},
+		"-f" : {
+			"yoneticiismi" : "Ahmet Ürkmezgil",
+			"gorev" : "Genel Sekreter"
+		},
+		"-g" : {
+			"yoneticiismi" : "E. Berk Hacıgüzel",
+			"gorev" : "Sayman"
+		},
+		"-h" : {
+			"yoneticiismi" : "Metin Albayrak",
+			"gorev" : "Yönetim Kurulu Sözcüsü"
+		},
+		"-i" : {
+			"yoneticiismi" : "Erdal Torunoğulları",
+			"gorev" : "Dış İlişkiler"
+		},
+		"-j" : {
+			"yoneticiismi" : "A. Cihat Kumuşoğlu",
+			"gorev" : "İcra Kurulu Üyesi"
+		},
+		"-k" : {
+			"yoneticiismi" : "Hakan Kalkavan",
+			"gorev" : "Y. Yatırımlar ve Tesisler Koor."
+		},
+		"-l" : {
+			"yoneticiismi" : "Hüseyin Mican",
+			"gorev" : "Kartal Yuvaları"
+		},
+		"-m" : {
+			"yoneticiismi" : "Hakan Özköse",
+			"gorev" : "Pazarlama ve Sponsorluklar"
+		},
+		"-n" : {
+			"yoneticiismi" : "Candaş Tolga Işık",
+			"gorev" : "İletişim"
+		},
+		"-o" : {
+			"yoneticiismi" : "Şafak Mahmutyazıcıoğlu",
+			"gorev" : "Hukuk"
+		},
+		"-p" : {
+			"yoneticiismi" : "Erdal Karacan",
+			"gorev" : "Amatör Şubeler"
+		},
+		"-r" : {
+			"yoneticiismi" : "Emre Kocadağ",
+			"gorev" : "Transfer Komitesi"
+		}
+	}
+  }
+}

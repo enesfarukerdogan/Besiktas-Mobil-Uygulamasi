@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "580501488093",
+    "firebase_url": "https://besiktas-d86c6.firebaseio.com",
+    "project_id": "besiktas-d86c6",
+    "storage_bucket": "besiktas-d86c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580501488093:android:94a8c7f19e787d13",
+        "android_client_info": {
+          "package_name": "com.example.enesfaruk.besiktasmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580501488093-rc98qfqsqdegkm2hsi2gksol9ltnvdvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg369Ti4T6KoMElnT0nvYMsv6nsjzOaGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
